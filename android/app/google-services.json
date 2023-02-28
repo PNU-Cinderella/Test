@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "206546233243",
+    "project_id": "project-cinderella-test",
+    "storage_bucket": "project-cinderella-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206546233243:android:2a074a5b3427a27b07633e",
+        "android_client_info": {
+          "package_name": "com.example.project_cinderella_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206546233243-thleaf25g0h0trssireoc9eec4ijuhs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_cinderella_test",
+            "certificate_hash": "74b86f4b34618d1a8338038fcfe000b4098bd635"
+          }
+        },
+        {
+          "client_id": "206546233243-aaauku0cjc5g2k2t5dkk7l690kqqkq3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAS-kT0lHA3i1frYRHegOtMO2Z_wuqlgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206546233243-6ipte33j2eqfnsbovodrv3mmo4hv5paa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206546233243-1te6lepvueml7srvcglhj32b6u2pmv7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectCinderellaTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206546233243:android:3fd0c0b3f663d30707633e",
+        "android_client_info": {
+          "package_name": "com.example.project_cinderella_test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206546233243-6mpnc8r8vv63vr0p4ef4u444b4d7kffv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_cinderella_test2",
+            "certificate_hash": "b2beb4974ba5d9cd5bdae2b1fe5e9f4e25fe5b6a"
+          }
+        },
+        {
+          "client_id": "206546233243-a8gk25l4tsc6svsn5i6l4pas65sq1d9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_cinderella_test2",
+            "certificate_hash": "74b86f4b34618d1a8338038fcfe000b4098bd635"
+          }
+        },
+        {
+          "client_id": "206546233243-aaauku0cjc5g2k2t5dkk7l690kqqkq3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAS-kT0lHA3i1frYRHegOtMO2Z_wuqlgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206546233243-6ipte33j2eqfnsbovodrv3mmo4hv5paa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206546233243-1te6lepvueml7srvcglhj32b6u2pmv7k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectCinderellaTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
